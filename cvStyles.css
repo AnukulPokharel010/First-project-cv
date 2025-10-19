@@ -1,0 +1,33 @@
+#header {
+    background-color: aqua; 
+    text-align: center;
+    padding: 10px;
+  }
+  #top {
+    text-align: center;
+  }
+  .inline-block {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .info-text {
+    font-size: 20px;
+    color: blue;
+    margin: 0;
+  }
+  .contact-info {
+    font-size: 18px;
+    margin: 0;
+  }
+  .mostTop{
+    color: red; 
+    text-shadow: 2px 2px blue
+  }
+  .nameOfSch{
+    font-size: 60px;
+     text-shadow: 5px 1px orangered
+  }
+  .slogan{
+    font-size: 20px; 
+    text-shadow: 2px 1px
+  }
