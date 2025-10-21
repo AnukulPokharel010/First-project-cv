@@ -25,9 +25,10 @@
   }
   .nameOfSch{
     font-size: 3.6vw;
-     text-shadow: 5px 1px orangered
+     text-shadow: 3px 3px 1px orangered
   }
   .slogan{
     font-size: 20px; 
-    text-shadow: 2px 1px
+    text-shadow: 2px 2px  1px gray;
+    font-weight:bold;
   }
